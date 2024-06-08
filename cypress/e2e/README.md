@@ -43,7 +43,7 @@ This repository contains a Cypress test suite designed to test the functionality
   - Income: 90,000
   - Non-Tax Income: 50,000
 
-##  aim
+## Thought Process
 The test suite was designed to verify the functionality of the form by using different sets of data. The aim was to ensure that the form can handle various inputs and that the expected actions are performed correctly. By automating these tests, we can quickly identify any issues with the form's functionality and improve the overall quality of the application.
 
 ## How to Run the Test Suite
