@@ -60,6 +60,5 @@ The test suite was designed to verify the functionality of the form by using dif
 
 ### Steps
 1. **Clone the Repository**
-   ```bash
-   git clone git remote add origin https://github.com/ASTEWALE1234/CypressTest.git
+   git clone https://github.com/your-username/CypressTestForMockProject.git
    cd CypressTestForMockProject
